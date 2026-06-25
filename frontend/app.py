@@ -19,9 +19,5 @@ Use the sidebar to navigate:
 - Employees
 - Orders
 
-Built with:
-- FastAPI
-- Streamlit
-- MySQL
-- Plotly
+
 """)
